@@ -1,0 +1,15 @@
+
+#date-picker-cont{
+   text-align: center;
+   margin:auto;
+   padding-top: 2em;;
+}
+
+
+input[type='text'] { 
+    font-size: 1.4em;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: cornsilk;   
+    border:none;
+ }

@@ -1,0 +1,26 @@
+#heading{
+    text-align: center;
+    background: skyblue;
+    padding:0.2em;
+    height:5em;
+
+}
+
+#logo{
+    border-radius: 50%;
+    height: 5em;
+    padding:0;
+    margin:0;
+    float: left;  
+}
+
+#text{
+   padding:1em;
+    font-weight: 400;
+    font-size:2em;
+    font-family: cursive;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+
+}
